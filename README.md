@@ -20,7 +20,8 @@ We will be mainly working on the following:
     for training the model.
 ## Lending Club Dataset
 
-Training Data : loan_train.csv 
+Training Data : loan_train.csv
+
 Testing Data : loan_test.csv
 
 ## Analysis
